@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Generated Data & Model Outputs (Regenerated via Pipeline)
+data/processed/
+models/*.pkl
+*.log
+
+# Project Study / Explanation Guide
+PROJECT_EXPLANATION.md
